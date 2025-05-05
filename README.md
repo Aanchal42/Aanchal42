@@ -7,7 +7,7 @@ I'm a college student passionate about coding and problem-solving. I love tackli
 - **Programming:** Java, algorithmic problem-solving, debugging techniques  
 - **Design:** Creating flowcharts and diagrams to simplify technical concepts  
 - **Web Development:** React , Javascript, Css(tailwind), Nodejs, Express , MongoDB
-- 
+  
 ### 🌱 Currently Learning
 - Advanced data structures & algorithms  
 - Enhancing Web visualization with effective design strategies  
