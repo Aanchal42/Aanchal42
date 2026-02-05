@@ -20,6 +20,6 @@ Here are some of the exciting projects I'm working on:
 
 ### 📫 Get in Touch!
 - GitHub: [github.com/Aanchal42](#)
-- LinkedIn: [https://www.linkedin.com/in/aanchal-tiwari-775707255](#)
+- LinkedIn: [www.linkedin.com/in/tiwariaanchal](#)
 
 
